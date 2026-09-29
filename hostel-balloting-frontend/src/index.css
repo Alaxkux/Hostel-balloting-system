@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.hero-bg {
+  background-image: url('/unilorin-background.png');
+}
